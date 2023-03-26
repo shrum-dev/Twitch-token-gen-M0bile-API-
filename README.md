@@ -4,6 +4,12 @@ If there is any module error just install it. We do not provide any support. Or 
 # Credits
 If you're using this generator be sure to give us credits. Selling this is forbidden.
 
+# Features
+```
+Email verification
+Bio
+```
+
 # TUTORIAL
 ```
 Get free proxies from webshare.io and insert it into proxy.txt as user:pass@ip:port
