@@ -1,24 +1,9 @@
-# USE ONLY IF YOU KNOW HOW TO INSTALL PYTHON MODULES
-If there is any module error just install it. We do not provide any support. Or just search on google on how to install it
+# PATCHED ON 30/3/2023
 
-# Credits
-If you're using this generator be sure to give us credits. Selling this is forbidden.
+The captcha provider (capsolver.com) has removed their kasada bypass sevice on 30/3/2023.
+This project no longer works and we will not provide any more support. 
+If you are looking for more twitch / discord related repositories feel free to check my profile.
 
-# Features
-```
-Email verification
-Bio
-```
+# DISCORD
 
-# TUTORIAL
-```
-Get free proxies from webshare.io and insert it into proxy.txt as user:pass@ip:port
-Add balance in capsolver.com and insert API key in config.json
-You can edit number of threads in config.json
-50 THREADS IS RECOMMENDED FOR FAST GENERATING.
-```
-# discord
-```
-User: shrum#1111
-Discord server: discord.gg/kasada
-```
+Free twitch followers and roblox services => https://discord.gg/4VdWDSeAb9
