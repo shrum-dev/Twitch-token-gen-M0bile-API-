@@ -1,8 +1,11 @@
-# PATCHED ON 30/3/2023
+# FIXED
 
-The captcha provider (capsolver.com) has removed their kasada bypass sevice on 30/3/2023.
-This project no longer works and we will not provide any more support. 
-If you are looking for more twitch / discord related repositories feel free to check my profile.
+`Capsolver.com` has bought back their kasada bypassing service. The gen now works. 
+
+# COMING SOON
+
+I have removed email verification because of `temp-mail.io` being gay. I will fix it all once I find a really good temp mail provider.
+Avatar will be released tomorrow :)
 
 # DISCORD
 
