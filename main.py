@@ -215,7 +215,6 @@ def emailvalid(email, token, code):
         r = requests.post("https://gql.twitch.tv/gql", json=data, headers=headers)
         solv = colors.fg.darkgrey + email + colors.fg.lightgrey
         print(f"{Fore.BLUE}[-] Email added{Fore.RESET}", solv)
-        addbio(token, code)
         return solv
     except Exception as e:
         None
@@ -231,7 +230,7 @@ def generate(xdevid):
             li1o = random.choice(p1)
             proxies = {"http": "http://" + li1o, "https": "http://" + li1o}
             password = "".join(random.choices(string.ascii_letters + string.digits, k=8))
-            eemail = newmail()
+            eemail = username + "@gmail.com"
 
             headers = {
                 "Content-Type": "text/json"
@@ -307,7 +306,7 @@ def generate(xdevid):
             print(f'{Fore.GREEN}[!] GENED{Fore.RESET}', solv1)
 
             xdecrequ += 1
-            emailvalid(eemail, token, usercode)
+            addbio(token, usercode)
       except Exception as e:
             None
 
