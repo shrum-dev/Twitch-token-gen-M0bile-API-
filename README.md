@@ -1,12 +1,10 @@
-# FIXED
+# WARNING
 
-`Capsolver.com` has bought back their kasada bypassing service. The gen now works. 
+> Use proxies from `webshare.io` and insert it as `username:password@ip:port`
+> If you dont know how to use it then dont use it.
 
-# COMING SOON
-
-I have removed email verification because of `temp-mail.io` being gay. I will fix it all once I find a really good temp mail provider.
-Avatar will be released tomorrow :)
+I will not provide any support.
 
 # DISCORD
 
-Free twitch followers and roblox services => https://discord.gg/4VdWDSeAb9
+Free twitch followers and roblox services => https://discord.gg/planets
