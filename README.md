@@ -8,4 +8,4 @@ I will not provide any support.
 # UPDATE
 
 > Still works as of 5/6/2023 
-> Got reports saying that sometimes it doesnt show anything and it just takes all ur balance, It's not a problem with the gen its problem with `capsolver.com`
+> Got reports saying that sometimes it doesnt show anything and it just takes all ur balance, It's not a problem with the gen its problem with `capsolver.com`. Although It only does that rarely so its safe to use
