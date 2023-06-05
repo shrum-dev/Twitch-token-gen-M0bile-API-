@@ -5,6 +5,7 @@
 
 I will not provide any support.
 
-# DISCORD
+# UPDATE
 
-Free twitch followers and roblox services => https://discord.gg/planets
+> Still works as of 5/6/2023 
+> Got reports saying that sometimes it doesnt show anything and it just takes all ur balance, It's not a problem with the gen its problem with `capsolver.com`
